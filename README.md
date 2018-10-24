@@ -1,2 +1,2 @@
-# lift
-my lift project for 42US
+# libft
+my libft project for 42US
